@@ -4,4 +4,4 @@ dpanel/dpanel
 dpanel/dpanel:lite
 linzeyi/hivision_idphotos
 4gray/iptvnator
-4gray/iptvnatorbackend
+4gray/iptvnator-backend
