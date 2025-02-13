@@ -4,7 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-  
+ schedule:
+    -corn: '0 0 * * *'
+    
+   
 
 env:
   ALIYUN_REGISTRY: "${{ secrets.ALIYUN_REGISTRY }}"
