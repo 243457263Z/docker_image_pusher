@@ -1,3 +1,4 @@
 ollama/ollama
 teamspeak
 dpanel/dpanel
+dpanel/dpanel:lite
