@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    -corn: '0 0 * * *'
+    corn: '0 0 * * *'
     
    
 
