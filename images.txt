@@ -2,3 +2,4 @@ ollama/ollama
 teamspeak
 dpanel/dpanel
 dpanel/dpanel:lite
+linzeyi/hivision_idphotos
